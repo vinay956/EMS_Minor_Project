@@ -20,7 +20,7 @@ To get a local copy of the code, clone it using git:
 
 ```
 git clone https://github.com/vinay956/EMS_Minor_Project.git
-cd crud-app
+cd EMS_Minor_Project
 ```
 
 Install dependencies:
